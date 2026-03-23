@@ -27,17 +27,7 @@ Também estou estudando e experimentando outras ferramentas e conceitos da área
 
 (em breve – estou organizando e finalizando alguns projetos para subir aqui)
 
-- [Em construção] Sistema de gerenciamento de tarefas com Django  
-- [Em construção] Portfólio pessoal com HTML, CSS e um toque de JavaScript  
+- [Em construção] Sistema de gerenciamento de tarefas com Django   
 - Pequenos projetos e exercícios em Python puro
 
 ---
-
-> “Código limpo, commits atômicos e café forte.” ☕
-
-Se quiser trocar uma ideia sobre programação, projetos ou tecnologia, é só me chamar!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN) <!-- opcional -->
-
-Feito com ❤️ e muito café
